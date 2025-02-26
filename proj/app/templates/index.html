@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Query LLM</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 20px auto;
+            text-align: center;
+        }
+        textarea, button {
+            width: 100%;
+            margin-top: 10px;
+            padding: 10px;
+            font-size: 16px;
+        }
+        #response {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            background: #f9f9f9;
+            text-align: left;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Ask a Question</h2>
+
+    <form id="query-form">
+        {% csrf_token %}
+        <textarea name="query" id="query" placeholder="Enter your question..." rows="3"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+
+    <div id="response">
+        <h3>Response:</h3>
+        <p id="result-text">Waiting for response...</p>
+    </div>
+
+    <script>
+        document.getElementById("query-form").addEventListener("submit", function(event) {
+            event.preventDefault();  // Prevent form from submitting normally
+
+            let query = document.getElementById("query").value;
+            let responseDiv = document.getElementById("response");
+            let resultText = document.getElementById("result-text");
+
+            if (!query.trim()) {
+                alert("Please enter a question.");
+                return;
+            }
+
+            responseDiv.style.display = "block";
+            resultText.innerHTML = "Loading...";
+
+            fetch("{% url 'index' %}", {
+                method: "POST",
+                headers: {
+                    "X-Requested-With": "XMLHttpRequest",
+                    "Content-Type": "application/x-www-form-urlencoded"
+                },
+                body: new URLSearchParams(new FormData(this))
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (typeof data.result === "object") {
+                    resultText.innerHTML = JSON.stringify(data.result, null, 2);  // Pretty-print JSON
+                } else {
+                    resultText.innerHTML = data.result;  // Handle plain text response
+                }
+            })
+            .catch(error => {
+                resultText.innerHTML = "Error: " + error;
+            });
+        });
+    </script>
+
+</body>
+</html>

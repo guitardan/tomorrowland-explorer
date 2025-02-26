@@ -1,0 +1,3464 @@
+{
+    "performances": [
+        {
+            "id": "1821598818",
+            "name": "Milano",
+            "artists": [
+                {
+                    "id": "1532625614",
+                    "name": "Milano"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-22",
+            "day": "FRIDAY",
+            "startTime": "2025-03-22 00:00:00+01:00",
+            "endTime": "2025-03-22 01:15:00+01:00"
+        },
+        {
+            "id": "1821597834",
+            "name": "Funkhauser",
+            "artists": [
+                {
+                    "id": "1345804263",
+                    "name": "Funkhauser",
+                    "instagram": "https://www.instagram.com/funkhauser_official/",
+                    "spotify": "https://open.spotify.com/artist/2sYp638IcOnnrIFRR63B9B?si=XLzWHqTuSKCo5Ba8EwYp2g"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 22:00:00+01:00",
+            "endTime": "2025-03-22 00:00:00+01:00"
+        },
+        {
+            "id": "1821597541",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 19:00:00+01:00",
+            "endTime": "2025-03-21 22:00:00+01:00"
+        },
+        {
+            "id": "1821597285",
+            "name": "Milano",
+            "artists": [
+                {
+                    "id": "1532625614",
+                    "name": "Milano"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 16:30:00+01:00",
+            "endTime": "2025-03-21 19:00:00+01:00"
+        },
+        {
+            "id": "1821596983",
+            "name": "Funkhauser",
+            "artists": [
+                {
+                    "id": "1345804263",
+                    "name": "Funkhauser",
+                    "instagram": "https://www.instagram.com/funkhauser_official/",
+                    "spotify": "https://open.spotify.com/artist/2sYp638IcOnnrIFRR63B9B?si=XLzWHqTuSKCo5Ba8EwYp2g"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 14:00:00+01:00",
+            "endTime": "2025-03-21 16:30:00+01:00"
+        },
+        {
+            "id": "1821593188",
+            "name": "Funkhauser",
+            "artists": [
+                {
+                    "id": "1345804263",
+                    "name": "Funkhauser",
+                    "instagram": "https://www.instagram.com/funkhauser_official/",
+                    "spotify": "https://open.spotify.com/artist/2sYp638IcOnnrIFRR63B9B?si=XLzWHqTuSKCo5Ba8EwYp2g"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-21",
+            "day": "THURSDAY",
+            "startTime": "2025-03-21 00:00:00+01:00",
+            "endTime": "2025-03-21 01:15:00+01:00"
+        },
+        {
+            "id": "1821592509",
+            "name": "Hak op de Tak",
+            "artists": [
+                {
+                    "id": "1821592801",
+                    "name": "Hak op de Tak"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 23:30:00+01:00",
+            "endTime": "2025-03-21 00:00:00+01:00"
+        },
+        {
+            "id": "1821592099",
+            "name": "Jan V",
+            "artists": [
+                {
+                    "id": "1345803480",
+                    "name": "Jan V",
+                    "instagram": "https://www.instagram.com/dj_janv/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 21:30:00+01:00",
+            "endTime": "2025-03-20 23:30:00+01:00"
+        },
+        {
+            "id": "1821591040",
+            "name": "Milano",
+            "artists": [
+                {
+                    "id": "1532625614",
+                    "name": "Milano"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 19:00:00+01:00",
+            "endTime": "2025-03-20 21:30:00+01:00"
+        },
+        {
+            "id": "1821590665",
+            "name": "Funkhauser",
+            "artists": [
+                {
+                    "id": "1345804263",
+                    "name": "Funkhauser",
+                    "instagram": "https://www.instagram.com/funkhauser_official/",
+                    "spotify": "https://open.spotify.com/artist/2sYp638IcOnnrIFRR63B9B?si=XLzWHqTuSKCo5Ba8EwYp2g"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 16:30:00+01:00",
+            "endTime": "2025-03-20 19:00:00+01:00"
+        },
+        {
+            "id": "1821590202",
+            "name": "Milano",
+            "artists": [
+                {
+                    "id": "1532625614",
+                    "name": "Milano"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 14:00:00+01:00",
+            "endTime": "2025-03-20 16:30:00+01:00"
+        },
+        {
+            "id": "1821587398",
+            "name": "Michael Moors",
+            "artists": [
+                {
+                    "id": "1821100310",
+                    "name": "Michael Moors"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 23:30:00+01:00",
+            "endTime": "2025-03-20 01:15:00+01:00"
+        },
+        {
+            "id": "1821586261",
+            "name": "Natalia",
+            "artists": [
+                {
+                    "id": "1532641761",
+                    "name": "Natalia"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 23:00:00+01:00",
+            "endTime": "2025-03-19 23:30:00+01:00"
+        },
+        {
+            "id": "1821584644",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 21:00:00+01:00",
+            "endTime": "2025-03-19 23:00:00+01:00"
+        },
+        {
+            "id": "1821584376",
+            "name": "Jan V",
+            "artists": [
+                {
+                    "id": "1345803480",
+                    "name": "Jan V",
+                    "instagram": "https://www.instagram.com/dj_janv/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 19:00:00+01:00",
+            "endTime": "2025-03-19 21:00:00+01:00"
+        },
+        {
+            "id": "1821583945",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 16:30:00+01:00",
+            "endTime": "2025-03-19 19:00:00+01:00"
+        },
+        {
+            "id": "1821582557",
+            "name": "Jan V",
+            "artists": [
+                {
+                    "id": "1345803480",
+                    "name": "Jan V",
+                    "instagram": "https://www.instagram.com/dj_janv/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 14:00:00+01:00",
+            "endTime": "2025-03-19 16:30:00+01:00"
+        },
+        {
+            "id": "1821547698",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 21:30:00+01:00",
+            "endTime": "2025-03-19 01:15:00+01:00"
+        },
+        {
+            "id": "1821547334",
+            "name": "Michael Moors",
+            "artists": [
+                {
+                    "id": "1821100310",
+                    "name": "Michael Moors"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 19:00:00+01:00",
+            "endTime": "2025-03-18 21:30:00+01:00"
+        },
+        {
+            "id": "1821547072",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 16:30:00+01:00",
+            "endTime": "2025-03-18 19:00:00+01:00"
+        },
+        {
+            "id": "1821546060",
+            "name": "Michael More",
+            "artists": [
+                {
+                    "id": "1345803029",
+                    "name": "Michael More",
+                    "instagram": "https://www.instagram.com/dj_michael_more/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 14:00:00+01:00",
+            "endTime": "2025-03-18 16:30:00+01:00"
+        },
+        {
+            "id": "1821099236",
+            "name": "Michael Moors",
+            "artists": [
+                {
+                    "id": "1821100310",
+                    "name": "Michael Moors"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 21:30:00+01:00",
+            "endTime": "2025-03-18 00:00:00+01:00"
+        },
+        {
+            "id": "1821094741",
+            "name": "Brian",
+            "artists": [
+                {
+                    "id": "1536174005",
+                    "name": "Brian"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 19:00:00+01:00",
+            "endTime": "2025-03-17 21:30:00+01:00"
+        },
+        {
+            "id": "1821092089",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 16:30:00+01:00",
+            "endTime": "2025-03-17 19:00:00+01:00"
+        },
+        {
+            "id": "1821087308",
+            "name": "Brian",
+            "artists": [
+                {
+                    "id": "1536174005",
+                    "name": "Brian"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 14:30:00+01:00",
+            "endTime": "2025-03-17 16:30:00+01:00"
+        },
+        {
+            "id": "1822604720",
+            "name": "Jeroen Delodder",
+            "artists": [
+                {
+                    "id": "1393609824",
+                    "name": "Jeroen Delodder",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53801442-240320-202017-TMLWINTER2024-HL-_HL66016.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 12:00:00+01:00",
+            "endTime": "2025-03-20 14:00:00+01:00"
+        },
+        {
+            "id": "1821081676",
+            "name": "Jeroen Visser",
+            "artists": [
+                {
+                    "id": "1345803745",
+                    "name": "Jeroen Visser",
+                    "instagram": "https://www.instagram.com/dj.jeroenvisser/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 22:30:00+01:00",
+            "endTime": "2025-03-17 00:00:00+01:00"
+        },
+        {
+            "id": "1821079302",
+            "name": "Brian",
+            "artists": [
+                {
+                    "id": "1536174005",
+                    "name": "Brian"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 21:00:00+01:00",
+            "endTime": "2025-03-16 22:30:00+01:00"
+        },
+        {
+            "id": "1821078132",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 19:00:00+01:00",
+            "endTime": "2025-03-16 21:00:00+01:00"
+        },
+        {
+            "id": "1821071135",
+            "name": "Brian",
+            "artists": [
+                {
+                    "id": "1536174005",
+                    "name": "Brian"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 16:30:00+01:00",
+            "endTime": "2025-03-16 19:00:00+01:00"
+        },
+        {
+            "id": "1821069430",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 14:00:00+01:00",
+            "endTime": "2025-03-16 16:30:00+01:00"
+        },
+        {
+            "id": "1821065936",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 21:30:00+01:00",
+            "endTime": "2025-03-16 00:00:00+01:00"
+        },
+        {
+            "id": "1821064869",
+            "name": "Jeroen Visser",
+            "artists": [
+                {
+                    "id": "1345803745",
+                    "name": "Jeroen Visser",
+                    "instagram": "https://www.instagram.com/dj.jeroenvisser/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 19:00:00+01:00",
+            "endTime": "2025-03-15 21:30:00+01:00"
+        },
+        {
+            "id": "1821057860",
+            "name": "Jelle DK",
+            "artists": [
+                {
+                    "id": "1345805688",
+                    "name": "Jelle DK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53783541-240317-195520-TMLWINTER2024-HL-_HL94414.jpg",
+                    "instagram": "https://www.instagram.com/dj_jelle_dk/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 16:30:00+01:00",
+            "endTime": "2025-03-15 19:00:00+01:00"
+        },
+        {
+            "id": "1821049178",
+            "name": "Jeroen Visser",
+            "artists": [
+                {
+                    "id": "1345803745",
+                    "name": "Jeroen Visser",
+                    "instagram": "https://www.instagram.com/dj.jeroenvisser/"
+                }
+            ],
+            "stage": {
+                "id": "1712247295",
+                "name": "MOOSEBAR"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 14:00:00+01:00",
+            "endTime": "2025-03-15 16:30:00+01:00"
+        },
+        {
+            "id": "1732148469",
+            "name": "Bassjackers",
+            "artists": [
+                {
+                    "id": "1262713442",
+                    "name": "Bassjackers",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16612308-large-KWK_Bassjackers Headshots_High Res-3.jpg",
+                    "instagram": "https://www.instagram.com/bassjackers/"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 16:00:00+01:00",
+            "endTime": "2025-03-21 17:30:00+01:00"
+        },
+        {
+            "id": "1732148371",
+            "name": "MATTN",
+            "artists": [
+                {
+                    "id": "1262705783",
+                    "name": "MATTN",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/32587454-MTTN-LS.jpg",
+                    "instagram": "https://www.instagram.com/mattnworld/"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 14:30:00+01:00",
+            "endTime": "2025-03-21 16:00:00+01:00"
+        },
+        {
+            "id": "1732148183",
+            "name": "Meaghan",
+            "artists": [
+                {
+                    "id": "1393692119",
+                    "name": "Meaghan",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53803267-230727-181904-TML23-BR5_8646-BH.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 12:00:00+01:00",
+            "endTime": "2025-03-21 14:30:00+01:00"
+        },
+        {
+            "id": "1732146670",
+            "name": "Mind Against",
+            "artists": [
+                {
+                    "id": "1262728679",
+                    "name": "Mind Against",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/20969947-03_MindAgainst_0063version2092622V .jpg",
+                    "instagram": "https://www.instagram.com/mindagainst/",
+                    "spotify": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72?si=fTWJbQdNTP24WgP2cPkUig"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 16:00:00+01:00",
+            "endTime": "2025-03-21 17:30:00+01:00"
+        },
+        {
+            "id": "1732146630",
+            "name": "Dino Lenny b2b Yulia Niko",
+            "artists": [
+                {
+                    "id": "1814035474",
+                    "name": "Dino Lenny b2b Yula Niko"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 14:00:00+01:00",
+            "endTime": "2025-03-21 16:00:00+01:00"
+        },
+        {
+            "id": "1732146532",
+            "name": "Axel Haube",
+            "artists": [
+                {
+                    "id": "1393180540",
+                    "name": "Axel Haube",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/34577845-AxelHaube_LS.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 12:00:00+01:00",
+            "endTime": "2025-03-21 14:00:00+01:00"
+        },
+        {
+            "id": "1732145042",
+            "name": "R3HAB",
+            "artists": [
+                {
+                    "id": "1361073186",
+                    "name": "R3HAB",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53521174-R3hab-2024.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 16:30:00+01:00",
+            "endTime": "2025-03-21 17:30:00+01:00"
+        },
+        {
+            "id": "1732145007",
+            "name": "Netsky",
+            "artists": [
+                {
+                    "id": "1262708221",
+                    "name": "Netsky",
+                    "image": "https://artist-lineup-assets.b-cdn.net/20366823-netsky.jpeg",
+                    "instagram": "https://www.instagram.com/netskyofficial/"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 15:30:00+01:00",
+            "endTime": "2025-03-21 16:30:00+01:00"
+        },
+        {
+            "id": "1732144512",
+            "name": "Mr. Belt & Wezol",
+            "artists": [
+                {
+                    "id": "1359298707",
+                    "name": "Mr. Belt & Wezol",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53715907-MrBelt-Wezol-2024.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 12:00:00+01:00",
+            "endTime": "2025-03-21 15:30:00+01:00"
+        },
+        {
+            "id": "1813516376",
+            "name": "Vintage Culture",
+            "artists": [
+                {
+                    "id": "1262706930",
+                    "name": "Vintage Culture",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607410-large-220723-185803-TML2022-0536-ALIVECOVERAGE.jpg",
+                    "instagram": "https://www.instagram.com/vintageculture/"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 23:30:00+01:00",
+            "endTime": "2025-03-22 01:00:00+01:00"
+        },
+        {
+            "id": "1813517083",
+            "name": "Samm",
+            "artists": [
+                {
+                    "id": "1532641820",
+                    "name": "Samm",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/58329700-Samm-1.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 22:00:00+01:00",
+            "endTime": "2025-03-21 23:30:00+01:00"
+        },
+        {
+            "id": "1813517552",
+            "name": "Capoon",
+            "artists": [
+                {
+                    "id": "1262716375",
+                    "name": "Capoon",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16612559-large-Capoon-83.jpg",
+                    "instagram": "https://www.instagram.com/capoonmusic/"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 20:30:00+01:00",
+            "endTime": "2025-03-21 22:00:00+01:00"
+        },
+        {
+            "id": "1732142424",
+            "name": "Philou",
+            "artists": [
+                {
+                    "id": "1732143057",
+                    "name": "Philou",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98142106-2.png"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 19:00:00+01:00",
+            "endTime": "2025-03-21 20:30:00+01:00"
+        },
+        {
+            "id": "1732138175",
+            "name": "CARV",
+            "artists": [
+                {
+                    "id": "1732138668",
+                    "name": "CARV",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98138498-6L2A7182.JPG"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-22",
+            "day": "FRIDAY",
+            "startTime": "2025-03-22 00:00:00+01:00",
+            "endTime": "2025-03-22 01:30:00+01:00"
+        },
+        {
+            "id": "1732138073",
+            "name": "NOVAH",
+            "artists": [
+                {
+                    "id": "1532641793",
+                    "name": "NOVAH",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96816521-Novah-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 22:30:00+01:00",
+            "endTime": "2025-03-22 00:00:00+01:00"
+        },
+        {
+            "id": "1732138020",
+            "name": "VIDO",
+            "artists": [
+                {
+                    "id": "1368947244",
+                    "name": "VIDO",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53788531-240321-002832-TMLWINTER2024-JD.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 21:00:00+01:00",
+            "endTime": "2025-03-21 22:30:00+01:00"
+        },
+        {
+            "id": "1732137980",
+            "name": "Portex",
+            "artists": [
+                {
+                    "id": "1393192558",
+                    "name": "Portex",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96825418-Portex-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 20:00:00+01:00",
+            "endTime": "2025-03-21 21:00:00+01:00"
+        },
+        {
+            "id": "1732132558",
+            "name": "Armin van Buuren",
+            "artists": [
+                {
+                    "id": "1264274656",
+                    "name": "Armin van Buuren",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16693055-Screenshot 2023-09-11 at 18.09.08.png",
+                    "instagram": "https://www.instagram.com/arminvanbuuren/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-22",
+            "day": "FRIDAY",
+            "startTime": "2025-03-22 00:25:00+01:00",
+            "endTime": "2025-03-22 01:25:00+01:00"
+        },
+        {
+            "id": "1732132518",
+            "name": "ALOK",
+            "artists": [
+                {
+                    "id": "1262707253",
+                    "name": "ALOK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/16607466-large-Alok2.jpg",
+                    "instagram": "https://www.instagram.com/alok/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 23:20:00+01:00",
+            "endTime": "2025-03-22 00:20:00+01:00"
+        },
+        {
+            "id": "1732132318",
+            "name": "Kölsch",
+            "artists": [
+                {
+                    "id": "1262705600",
+                    "name": "Kölsch",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/32580036-Kolsch-LS.jpg",
+                    "instagram": "https://www.instagram.com/kolschofficial/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 22:20:00+01:00",
+            "endTime": "2025-03-21 23:20:00+01:00"
+        },
+        {
+            "id": "1732132033",
+            "name": "Henri PFR",
+            "artists": [
+                {
+                    "id": "1262703272",
+                    "name": "Henri PFR",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/16607212-large-Henri PFR - 2022 press pic 1.jpg",
+                    "instagram": "https://www.instagram.com/henripfr/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 21:15:00+01:00",
+            "endTime": "2025-03-21 22:15:00+01:00"
+        },
+        {
+            "id": "1732131516",
+            "name": "MATTN",
+            "artists": [
+                {
+                    "id": "1262705783",
+                    "name": "MATTN",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/32587454-MTTN-LS.jpg",
+                    "instagram": "https://www.instagram.com/mattnworld/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 20:10:00+01:00",
+            "endTime": "2025-03-21 21:10:00+01:00"
+        },
+        {
+            "id": "1732131204",
+            "name": "Rose Ringed",
+            "artists": [
+                {
+                    "id": "1532641757",
+                    "name": "Rose Ringed",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/54852408-Rose_Ringed_Groot_Online_07.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-21",
+            "day": "FRIDAY",
+            "startTime": "2025-03-21 19:00:00+01:00",
+            "endTime": "2025-03-21 20:10:00+01:00"
+        },
+        {
+            "id": "1732127705",
+            "name": "Coone",
+            "artists": [
+                {
+                    "id": "1262709389",
+                    "name": "Coone",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607794-large-Online.jpg",
+                    "instagram": "https://www.instagram.com/djcoone/"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 16:00:00+01:00",
+            "endTime": "2025-03-20 17:30:00+01:00"
+        },
+        {
+            "id": "1732127592",
+            "name": "Third Party",
+            "artists": [
+                {
+                    "id": "1536131096",
+                    "name": "Third Party",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98153698-写真 6-28-24 午前3 53 31 (8).jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 14:00:00+01:00",
+            "endTime": "2025-03-20 16:00:00+01:00"
+        },
+        {
+            "id": "1732125497",
+            "name": "Lost Frequencies",
+            "artists": [
+                {
+                    "id": "1262707391",
+                    "name": "Lost Frequencies",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/38719056-SME_LF_AST_press_09.jpg",
+                    "instagram": "https://www.instagram.com/lostfrequencies/"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 16:00:00+01:00",
+            "endTime": "2025-03-20 17:30:00+01:00"
+        },
+        {
+            "id": "1732125230",
+            "name": "Agents of Time",
+            "artists": [
+                {
+                    "id": "1302186739",
+                    "name": "Agents of Time",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53681670-Agents-of-Time-2024.jpg",
+                    "instagram": "https://www.instagram.com/agentsoftime/",
+                    "spotify": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht?si=5MhM5AwqRka8yiyCpSxlCQ"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 14:00:00+01:00",
+            "endTime": "2025-03-20 16:00:00+01:00"
+        },
+        {
+            "id": "1732125135",
+            "name": "ARTEN",
+            "artists": [
+                {
+                    "id": "1397177066",
+                    "name": "ARTEN",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53505477-Arten-2024.jpg",
+                    "instagram": "https://www.instagram.com/arten.music?igsh=ZmZyZ20wZGZoOHBu"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 12:00:00+01:00",
+            "endTime": "2025-03-20 14:00:00+01:00"
+        },
+        {
+            "id": "1732121390",
+            "name": "Alok",
+            "artists": [
+                {
+                    "id": "1262707253",
+                    "name": "ALOK",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/16607466-large-Alok2.jpg",
+                    "instagram": "https://www.instagram.com/alok/"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 16:30:00+01:00",
+            "endTime": "2025-03-20 17:30:00+01:00"
+        },
+        {
+            "id": "1732121256",
+            "name": "Matisse & Sadko",
+            "artists": [
+                {
+                    "id": "1536181345",
+                    "name": "Matisse & Sadko",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53520586-Mattisse-Sadko.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 15:30:00+01:00",
+            "endTime": "2025-03-20 16:30:00+01:00"
+        },
+        {
+            "id": "1732121138",
+            "name": "Arielle Free",
+            "artists": [
+                {
+                    "id": "1324452973",
+                    "name": "Arielle Free",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/31853262-187A9663.jpg",
+                    "instagram": "https://www.instagram.com/ariellefree/",
+                    "spotify": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d?si=duaOVVeCQCudJ8VUVkKoAQ"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 14:00:00+01:00",
+            "endTime": "2025-03-20 15:30:00+01:00"
+        },
+        {
+            "id": "1732121058",
+            "name": "Arado",
+            "artists": [
+                {
+                    "id": "1532636856",
+                    "name": "Arado",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98136664-5C880BCB-E17A-4C39-9E4C-128FCFBD6FCF.JPG"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 12:00:00+01:00",
+            "endTime": "2025-03-20 14:00:00+01:00"
+        },
+        {
+            "id": "1732114734",
+            "name": "Kevin de Vries",
+            "artists": [
+                {
+                    "id": "1264276664",
+                    "name": "Kevin de Vries",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/16693614-Screenshot 2023-09-11 at 18.12.24.png",
+                    "instagram": "https://www.instagram.com/kevindevriesmusic/"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 23:30:00+01:00",
+            "endTime": "2025-03-21 01:00:00+01:00"
+        },
+        {
+            "id": "1732114565",
+            "name": "Yulia Niko",
+            "artists": [
+                {
+                    "id": "1319397901",
+                    "name": "Yulia Niko",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/31807886-28 - IMG_3844.jpg",
+                    "instagram": "https://www.instagram.com/yulianiko/",
+                    "spotify": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3?si=T0Jh3G6WQnyHAhvBPdN7mQ"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 22:00:00+01:00",
+            "endTime": "2025-03-20 23:30:00+01:00"
+        },
+        {
+            "id": "1732113974",
+            "name": "Axel Haube",
+            "artists": [
+                {
+                    "id": "1393180540",
+                    "name": "Axel Haube",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/34577845-AxelHaube_LS.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 20:30:00+01:00",
+            "endTime": "2025-03-20 22:00:00+01:00"
+        },
+        {
+            "id": "1732109930",
+            "name": "Joris Voorn",
+            "artists": [
+                {
+                    "id": "1262711086",
+                    "name": "Joris Voorn",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16608785-large-JV 3.jpg",
+                    "instagram": "https://www.instagram.com/jorisvoorn/"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-21",
+            "day": "THURSDAY",
+            "startTime": "2025-03-21 00:00:00+01:00",
+            "endTime": "2025-03-21 01:30:00+01:00"
+        },
+        {
+            "id": "1732109875",
+            "name": "Amber Broos",
+            "artists": [
+                {
+                    "id": "1262705755",
+                    "name": "Amber Broos",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607249-large-Amber Broos2 (1).jpg",
+                    "instagram": "https://www.instagram.com/amberbroos/"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 22:30:00+01:00",
+            "endTime": "2025-03-21 00:00:00+01:00"
+        },
+        {
+            "id": "1732109807",
+            "name": "Juliet Fox",
+            "artists": [
+                {
+                    "id": "1344766215",
+                    "name": "Juliet Fox",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53519351-Juliet-Fox-2024.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 21:00:00+01:00",
+            "endTime": "2025-03-20 22:30:00+01:00"
+        },
+        {
+            "id": "1732109702",
+            "name": "Abstraal",
+            "artists": [
+                {
+                    "id": "1732110837",
+                    "name": "Abstraal",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98136131-Abstraal_0319_152848_RCX_4669_RCX.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 20:00:00+01:00",
+            "endTime": "2025-03-20 21:00:00+01:00"
+        },
+        {
+            "id": "1732105022",
+            "name": "Dimitri Vegas",
+            "artists": [
+                {
+                    "id": "1292612863",
+                    "name": "Dimitri Vegas",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/19865482-1690727329871_6a4f3518-e93f-4253-b5ac-94bd20f24816.jpg_3750_9389690997246755927.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-21",
+            "day": "THURSDAY",
+            "startTime": "2025-03-21 00:25:00+01:00",
+            "endTime": "2025-03-21 01:25:00+01:00"
+        },
+        {
+            "id": "1732104969",
+            "name": "Afrojack",
+            "artists": [
+                {
+                    "id": "1261857121",
+                    "name": "Afrojack",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/33881383-Afrojack_LS.jpg",
+                    "website": "https://afrojack.com/",
+                    "facebook": "https://www.facebook.com/djafrojack",
+                    "twitter": "https://twitter.com/afrojack",
+                    "instagram": "https://www.instagram.com/afrojack",
+                    "tiktok": "https://www.tiktok.com/@afrojack",
+                    "youtube": "https://www.youtube.com/user/afrojacktv",
+                    "spotify": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz",
+                    "soundcloud": "https://soundcloud.com/afrojack"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 23:20:00+01:00",
+            "endTime": "2025-03-21 00:20:00+01:00"
+        },
+        {
+            "id": "1732104867",
+            "name": "MANDY",
+            "artists": [
+                {
+                    "id": "1262709306",
+                    "name": "MANDY",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607767-large-220722-154138-TML2022-153A9057-PW.jpg",
+                    "website": "https://www.djmandyofficial.be/",
+                    "facebook": "https://www.facebook.com/MANDYofficial/",
+                    "instagram": "https://www.instagram.com/mandyofficial_be/",
+                    "tiktok": "https://www.tiktok.com/@mandyofficialbe",
+                    "youtube": "DJ MANDY - https://www.youtube.com/channel/UCsFcbYXC0IGlDbV5FyQMjGw"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 22:20:00+01:00",
+            "endTime": "2025-03-20 23:20:00+01:00"
+        },
+        {
+            "id": "1732104756",
+            "name": "NERVO",
+            "artists": [
+                {
+                    "id": "1262706956",
+                    "name": "NERVO",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607441-large-220731-182539-TML2022-761A4930-JD.jpg",
+                    "instagram": "https://www.instagram.com/nervomusic/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 21:15:00+01:00",
+            "endTime": "2025-03-20 22:15:00+01:00"
+        },
+        {
+            "id": "1732104551",
+            "name": "Sunnery James & Ryan Marciano",
+            "artists": [
+                {
+                    "id": "1546636351",
+                    "name": "Sunnery James & Ryan Marciano",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/54882603-SJRM 2023.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 20:10:00+01:00",
+            "endTime": "2025-03-20 21:10:00+01:00"
+        },
+        {
+            "id": "1732104452",
+            "name": "Mr Belt & Wezol",
+            "artists": [
+                {
+                    "id": "1359298707",
+                    "name": "Mr. Belt & Wezol",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53715907-MrBelt-Wezol-2024.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 19:00:00+01:00",
+            "endTime": "2025-03-20 20:10:00+01:00"
+        },
+        {
+            "id": "1732101669",
+            "name": "MANDY",
+            "artists": [
+                {
+                    "id": "1262709306",
+                    "name": "MANDY",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607767-large-220722-154138-TML2022-153A9057-PW.jpg",
+                    "website": "https://www.djmandyofficial.be/",
+                    "facebook": "https://www.facebook.com/MANDYofficial/",
+                    "instagram": "https://www.instagram.com/mandyofficial_be/",
+                    "tiktok": "https://www.tiktok.com/@mandyofficialbe",
+                    "youtube": "DJ MANDY - https://www.youtube.com/channel/UCsFcbYXC0IGlDbV5FyQMjGw"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 16:30:00+01:00",
+            "endTime": "2025-03-19 17:30:00+01:00"
+        },
+        {
+            "id": "1732101319",
+            "name": "Andromedik",
+            "artists": [
+                {
+                    "id": "1262708699",
+                    "name": "Andromedik",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96796503-Andromedik-2025.jpg",
+                    "instagram": "https://www.instagram.com/andromedik.official/"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 15:30:00+01:00",
+            "endTime": "2025-03-19 16:30:00+01:00"
+        },
+        {
+            "id": "1732101589",
+            "name": "ADAMK",
+            "artists": [
+                {
+                    "id": "1262731058",
+                    "name": "ADAM K",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16613705-large-AdamK - UpClose.jpg",
+                    "instagram": "https://www.instagram.com/adamkdj/"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 14:30:00+01:00",
+            "endTime": "2025-03-19 15:30:00+01:00"
+        },
+        {
+            "id": "1732098407",
+            "name": "Kölsch b2b Kevin de Vries",
+            "artists": [
+                {
+                    "id": "1821030326",
+                    "name": "Kölsch b2b Kevin de Vries"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 15:00:00+01:00",
+            "endTime": "2025-03-19 17:30:00+01:00"
+        },
+        {
+            "id": "1813492913",
+            "name": "Séa",
+            "artists": [
+                {
+                    "id": "1394169238",
+                    "name": "Séa",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96826993-Sea-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 12:00:00+01:00",
+            "endTime": "2025-03-19 14:30:00+01:00"
+        },
+        {
+            "id": "1822695579",
+            "name": "Séa",
+            "artists": [
+                {
+                    "id": "1394169238",
+                    "name": "Séa",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96826993-Sea-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-20",
+            "day": "THURSDAY",
+            "startTime": "2025-03-20 19:00:00+01:00",
+            "endTime": "2025-03-20 20:30:00+01:00"
+        },
+        {
+            "id": "1732098291",
+            "name": "Rose Ringed",
+            "artists": [
+                {
+                    "id": "1532641757",
+                    "name": "Rose Ringed",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/54852408-Rose_Ringed_Groot_Online_07.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 12:00:00+01:00",
+            "endTime": "2025-03-19 15:00:00+01:00"
+        },
+        {
+            "id": "1732095891",
+            "name": "Armin van Buuren",
+            "artists": [
+                {
+                    "id": "1264274656",
+                    "name": "Armin van Buuren",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16693055-Screenshot 2023-09-11 at 18.09.08.png",
+                    "instagram": "https://www.instagram.com/arminvanbuuren/"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 16:30:00+01:00",
+            "endTime": "2025-03-19 17:30:00+01:00"
+        },
+        {
+            "id": "1732095635",
+            "name": "Armin van Buuren b2b Joris Voorn",
+            "artists": [
+                {
+                    "id": "1821030539",
+                    "name": "Armin van Buuren b2b Joris Voorn"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 15:00:00+01:00",
+            "endTime": "2025-03-19 16:30:00+01:00"
+        },
+        {
+            "id": "1732095578",
+            "name": "NWYR",
+            "artists": [
+                {
+                    "id": "1732096441",
+                    "name": "NWYR",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98140695-NWYR-pressimage-final.png"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 14:00:00+01:00",
+            "endTime": "2025-03-19 15:00:00+01:00"
+        },
+        {
+            "id": "1732095534",
+            "name": "D. Guaetta",
+            "artists": [
+                {
+                    "id": "1532641751",
+                    "name": "D. Guaetta",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53719056-DGuaetta-2024.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 13:00:00+01:00",
+            "endTime": "2025-03-19 14:00:00+01:00"
+        },
+        {
+            "id": "1732095501",
+            "name": "Lou8",
+            "artists": [
+                {
+                    "id": "1393143557",
+                    "name": "Lou8",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53799500-240322 - 135420 - TMLWINTER - 2B4A0323 - PW.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 12:00:00+01:00",
+            "endTime": "2025-03-19 13:00:00+01:00"
+        },
+        {
+            "id": "1732093881",
+            "name": "Mind Against",
+            "artists": [
+                {
+                    "id": "1262728679",
+                    "name": "Mind Against",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/20969947-03_MindAgainst_0063version2092622V .jpg",
+                    "instagram": "https://www.instagram.com/mindagainst/",
+                    "spotify": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72?si=fTWJbQdNTP24WgP2cPkUig"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 23:30:00+01:00",
+            "endTime": "2025-03-20 01:00:00+01:00"
+        },
+        {
+            "id": "1732093790",
+            "name": "LP Giobbi",
+            "artists": [
+                {
+                    "id": "1732094331",
+                    "name": "LP Giobbi",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96812007-LPGiobbi-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 22:00:00+01:00",
+            "endTime": "2025-03-19 23:30:00+01:00"
+        },
+        {
+            "id": "1732093698",
+            "name": "Dino Lenny",
+            "artists": [
+                {
+                    "id": "1262716164",
+                    "name": "Dino Lenny",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16612536-large-dino-27.jpg",
+                    "instagram": "https://www.instagram.com/dino_lenny/"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 20:30:00+01:00",
+            "endTime": "2025-03-19 22:00:00+01:00"
+        },
+        {
+            "id": "1732093569",
+            "name": "Emjie",
+            "artists": [
+                {
+                    "id": "1336727322",
+                    "name": "Emjie",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53518886-Emjie-2024.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 19:00:00+01:00",
+            "endTime": "2025-03-19 20:30:00+01:00"
+        },
+        {
+            "id": "1732091292",
+            "name": "Warface",
+            "artists": [
+                {
+                    "id": "1359219796",
+                    "name": "Warface",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53564416-Warface-2024.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-20",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-20 00:30:00+01:00",
+            "endTime": "2025-03-20 01:30:00+01:00"
+        },
+        {
+            "id": "1732091225",
+            "name": "Sub Zero Project",
+            "artists": [
+                {
+                    "id": "1546635513",
+                    "name": "Sub Zero Project",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/54882157-SZP_2024_webres--5.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 23:30:00+01:00",
+            "endTime": "2025-03-20 00:30:00+01:00"
+        },
+        {
+            "id": "1732091195",
+            "name": "Coone",
+            "artists": [
+                {
+                    "id": "1262709389",
+                    "name": "Coone",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607794-large-Online.jpg",
+                    "instagram": "https://www.instagram.com/djcoone/"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 22:30:00+01:00",
+            "endTime": "2025-03-19 23:30:00+01:00"
+        },
+        {
+            "id": "1732091148",
+            "name": "Pat B",
+            "artists": [
+                {
+                    "id": "1536132018",
+                    "name": "Pat B",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96824554-PatB-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 21:00:00+01:00",
+            "endTime": "2025-03-19 22:30:00+01:00"
+        },
+        {
+            "id": "1732091083",
+            "name": "The Z.",
+            "artists": [
+                {
+                    "id": "1532641752",
+                    "name": "The Z.",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98153421-the z.jpeg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 20:00:00+01:00",
+            "endTime": "2025-03-19 21:00:00+01:00"
+        },
+        {
+            "id": "1732079382",
+            "name": "Amelie Lens",
+            "artists": [
+                {
+                    "id": "1532635226",
+                    "name": "Amelie Lens",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53504513-Amelie Lens - Atmosphere.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-20",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-20 00:25:00+01:00",
+            "endTime": "2025-03-20 01:25:00+01:00"
+        },
+        {
+            "id": "1732079254",
+            "name": "Steve Aoki",
+            "artists": [
+                {
+                    "id": "1262706637",
+                    "name": "Steve Aoki",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607368-large-220723-002559-TML2022-DN102555-DN(3).jpg",
+                    "instagram": "https://www.instagram.com/steveaoki/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 23:20:00+01:00",
+            "endTime": "2025-03-20 00:20:00+01:00"
+        },
+        {
+            "id": "1732079122",
+            "name": "Lost Frequencies",
+            "artists": [
+                {
+                    "id": "1262707391",
+                    "name": "Lost Frequencies",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/38719056-SME_LF_AST_press_09.jpg",
+                    "instagram": "https://www.instagram.com/lostfrequencies/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 22:20:00+01:00",
+            "endTime": "2025-03-19 23:20:00+01:00"
+        },
+        {
+            "id": "1732079047",
+            "name": "Meduza",
+            "artists": [
+                {
+                    "id": "1532641764",
+                    "name": "Meduza",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53867332-230721-185343-TML23-R51_4326-KV.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 21:15:00+01:00",
+            "endTime": "2025-03-19 22:15:00+01:00"
+        },
+        {
+            "id": "1732078948",
+            "name": "Bassjackers",
+            "artists": [
+                {
+                    "id": "1262713442",
+                    "name": "Bassjackers",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16612308-large-KWK_Bassjackers Headshots_High Res-3.jpg",
+                    "instagram": "https://www.instagram.com/bassjackers/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 20:10:00+01:00",
+            "endTime": "2025-03-19 21:10:00+01:00"
+        },
+        {
+            "id": "1732078872",
+            "name": "Arielle Free",
+            "artists": [
+                {
+                    "id": "1324452973",
+                    "name": "Arielle Free",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/31853262-187A9663.jpg",
+                    "instagram": "https://www.instagram.com/ariellefree/",
+                    "spotify": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d?si=duaOVVeCQCudJ8VUVkKoAQ"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-19",
+            "day": "WEDNESDAY",
+            "startTime": "2025-03-19 19:00:00+01:00",
+            "endTime": "2025-03-19 20:10:00+01:00"
+        },
+        {
+            "id": "1732074936",
+            "name": "Sunnery James & Ryan Marciano",
+            "artists": [
+                {
+                    "id": "1546636351",
+                    "name": "Sunnery James & Ryan Marciano",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/54882603-SJRM 2023.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 16:00:00+01:00",
+            "endTime": "2025-03-18 17:30:00+01:00"
+        },
+        {
+            "id": "1732074835",
+            "name": "Samm",
+            "artists": [
+                {
+                    "id": "1532641820",
+                    "name": "Samm",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/58329700-Samm-1.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 14:00:00+01:00",
+            "endTime": "2025-03-18 16:00:00+01:00"
+        },
+        {
+            "id": "1732074761",
+            "name": "Tess",
+            "artists": [
+                {
+                    "id": "1790203335",
+                    "name": "Tess",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98149332-IMG_0889.JPG"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 12:00:00+01:00",
+            "endTime": "2025-03-18 14:00:00+01:00"
+        },
+        {
+            "id": "1732071266",
+            "name": "Vintage Culture",
+            "artists": [
+                {
+                    "id": "1262706930",
+                    "name": "Vintage Culture",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607410-large-220723-185803-TML2022-0536-ALIVECOVERAGE.jpg",
+                    "instagram": "https://www.instagram.com/vintageculture/"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 16:00:00+01:00",
+            "endTime": "2025-03-18 17:30:00+01:00"
+        },
+        {
+            "id": "1732071239",
+            "name": "LP GIobbi",
+            "artists": [
+                {
+                    "id": "1732094331",
+                    "name": "LP Giobbi",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96812007-LPGiobbi-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 14:00:00+01:00",
+            "endTime": "2025-03-18 16:00:00+01:00"
+        },
+        {
+            "id": "1732071171",
+            "name": "Emjie",
+            "artists": [
+                {
+                    "id": "1336727322",
+                    "name": "Emjie",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53518886-Emjie-2024.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 12:00:00+01:00",
+            "endTime": "2025-03-18 14:00:00+01:00"
+        },
+        {
+            "id": "1732069439",
+            "name": "Dimitri Vegas b2b Steve Aoki",
+            "artists": [
+                {
+                    "id": "1814028913",
+                    "name": "Dimitri Vegas b2b Steve Aoki"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 16:30:00+01:00",
+            "endTime": "2025-03-18 17:30:00+01:00"
+        },
+        {
+            "id": "1732069183",
+            "name": "NERVO b2b B Jones",
+            "artists": [
+                {
+                    "id": "1821031401",
+                    "name": "NERVO b2b B Jones"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 15:30:00+01:00",
+            "endTime": "2025-03-18 16:30:00+01:00"
+        },
+        {
+            "id": "1732069130",
+            "name": "Henri PFR",
+            "artists": [
+                {
+                    "id": "1262703272",
+                    "name": "Henri PFR",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/16607212-large-Henri PFR - 2022 press pic 1.jpg",
+                    "instagram": "https://www.instagram.com/henripfr/"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 14:30:00+01:00",
+            "endTime": "2025-03-18 15:30:00+01:00"
+        },
+        {
+            "id": "1732068697",
+            "name": "Delafino",
+            "artists": [
+                {
+                    "id": "1345813384",
+                    "name": "Delafino",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/31833682-DELAFINO.jpg",
+                    "instagram": "https://www.instagram.com/delafino/"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 12:00:00+01:00",
+            "endTime": "2025-03-18 14:30:00+01:00"
+        },
+        {
+            "id": "1732048416",
+            "name": "Nina Kraviz",
+            "artists": [
+                {
+                    "id": "1262714570",
+                    "name": "Nina Kraviz",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16612427-large-NinaKraviz_FREDGASI_03.jpg",
+                    "instagram": "https://www.instagram.com/ninakraviz/",
+                    "spotify": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE?si=e3141EkFSaOQpm7YnUFjkg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 23:30:00+01:00",
+            "endTime": "2025-03-19 01:00:00+01:00"
+        },
+        {
+            "id": "1732047178",
+            "name": "Jennifer Cardini b2b Pablo Bozzi",
+            "artists": [
+                {
+                    "id": "1821034899",
+                    "name": "Jennifer Cardini b2b Pablo Bozzi"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 22:00:00+01:00",
+            "endTime": "2025-03-18 23:30:00+01:00"
+        },
+        {
+            "id": "1732047053",
+            "name": "fka.m4a",
+            "artists": [
+                {
+                    "id": "1478622129",
+                    "name": "FKA.M4A",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96802679-fkam4a-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 20:30:00+01:00",
+            "endTime": "2025-03-18 22:00:00+01:00"
+        },
+        {
+            "id": "1732046162",
+            "name": "Kneiz",
+            "artists": [
+                {
+                    "id": "1277057365",
+                    "name": "Kneiz",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/17967410-Screenshot 2023-09-25 at 14.02.28.png",
+                    "instagram": "https://instagram.com/kneiz"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 19:00:00+01:00",
+            "endTime": "2025-03-18 20:30:00+01:00"
+        },
+        {
+            "id": "1732038705",
+            "name": "Hugel",
+            "artists": [
+                {
+                    "id": "1325699073",
+                    "name": "Hugel",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/31653110-DSC09017-2.JPG",
+                    "instagram": "https://www.instagram.com/hugelthug/",
+                    "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By?si=B3pjghe7RieBVOQR0UCyYA"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-19",
+            "day": "TUESDAY",
+            "startTime": "2025-03-19 00:00:00+01:00",
+            "endTime": "2025-03-19 01:30:00+01:00"
+        },
+        {
+            "id": "1732037925",
+            "name": "Parallelle",
+            "artists": [
+                {
+                    "id": "1732039775",
+                    "name": "Parallelle",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98141908-1M9I7096 (1).png"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 22:30:00+01:00",
+            "endTime": "2025-03-19 00:00:00+01:00"
+        },
+        {
+            "id": "1732037877",
+            "name": "Ajna",
+            "artists": [
+                {
+                    "id": "1538992968",
+                    "name": "Ajna",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96788092-Ajna-WEB-02.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 21:00:00+01:00",
+            "endTime": "2025-03-18 22:30:00+01:00"
+        },
+        {
+            "id": "1732037826",
+            "name": "LouLou Players",
+            "artists": [
+                {
+                    "id": "1391206381",
+                    "name": "LouLou Players",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/38899985-Loulou Players.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 20:00:00+01:00",
+            "endTime": "2025-03-18 21:00:00+01:00"
+        },
+        {
+            "id": "1732032554",
+            "name": "W&W",
+            "artists": [
+                {
+                    "id": "1532622211",
+                    "name": "W&W",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/58456899-W_W Profile Photo 2023 Square-squashed0.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-19",
+            "day": "TUESDAY",
+            "startTime": "2025-03-19 00:20:00+01:00",
+            "endTime": "2025-03-19 01:20:00+01:00"
+        },
+        {
+            "id": "1732032507",
+            "name": "Axwell",
+            "artists": [
+                {
+                    "id": "1593866644",
+                    "name": "Axwell",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96830896-Axwell-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 23:20:00+01:00",
+            "endTime": "2025-03-19 00:20:00+01:00"
+        },
+        {
+            "id": "1732032429",
+            "name": "Indira Paganotto",
+            "artists": [
+                {
+                    "id": "1262709989",
+                    "name": "Indira Paganotto",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607862-large-220731-210602-TML2022-4Y5A4898-AT.jpg",
+                    "instagram": "https://www.instagram.com/indirapaganotto/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 22:15:00+01:00",
+            "endTime": "2025-03-18 23:15:00+01:00"
+        },
+        {
+            "id": "1732032275",
+            "name": "Agents of Time",
+            "artists": [
+                {
+                    "id": "1302186739",
+                    "name": "Agents of Time",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53681670-Agents-of-Time-2024.jpg",
+                    "instagram": "https://www.instagram.com/agentsoftime/",
+                    "spotify": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht?si=5MhM5AwqRka8yiyCpSxlCQ"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 21:15:00+01:00",
+            "endTime": "2025-03-18 22:15:00+01:00"
+        },
+        {
+            "id": "1732032185",
+            "name": "Miss Monique",
+            "artists": [
+                {
+                    "id": "1262711176",
+                    "name": "Miss Monique",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16691398-Screenshot 2023-09-11 at 17.50.24.png",
+                    "instagram": "https://www.instagram.com/djmissmonique/"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 20:15:00+01:00",
+            "endTime": "2025-03-18 21:15:00+01:00"
+        },
+        {
+            "id": "1732031885",
+            "name": "Ewave b2b Galluxy",
+            "artists": [
+                {
+                    "id": "1821036661",
+                    "name": "Ewave b2b Galluxy"
+                }
+            ],
+            "stage": {
+                "id": "1712247009",
+                "name": "MAINSTAGE"
+            },
+            "date": "2025-03-18",
+            "day": "TUESDAY",
+            "startTime": "2025-03-18 19:00:00+01:00",
+            "endTime": "2025-03-18 20:15:00+01:00"
+        },
+        {
+            "id": "1732016689",
+            "name": "Hugel",
+            "artists": [
+                {
+                    "id": "1325699073",
+                    "name": "Hugel",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/31653110-DSC09017-2.JPG",
+                    "instagram": "https://www.instagram.com/hugelthug/",
+                    "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By?si=B3pjghe7RieBVOQR0UCyYA"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 15:00:00+01:00",
+            "endTime": "2025-03-17 16:30:00+01:00"
+        },
+        {
+            "id": "1732016605",
+            "name": "Alex Wann",
+            "artists": [
+                {
+                    "id": "1532636616",
+                    "name": "Alex Wann",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96796209-Alex-Wann-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 13:30:00+01:00",
+            "endTime": "2025-03-17 15:00:00+01:00"
+        },
+        {
+            "id": "1732016531",
+            "name": "Betical",
+            "artists": [
+                {
+                    "id": "1795924286",
+                    "name": "Betical",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98138337-Betical_PP.png"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 12:00:00+01:00",
+            "endTime": "2025-03-17 13:30:00+01:00"
+        },
+        {
+            "id": "1732013915",
+            "name": "Meduza",
+            "artists": [
+                {
+                    "id": "1532641764",
+                    "name": "Meduza",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53867332-230721-185343-TML23-R51_4326-KV.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 15:00:00+01:00",
+            "endTime": "2025-03-17 16:30:00+01:00"
+        },
+        {
+            "id": "1732013834",
+            "name": "Miss Monique",
+            "artists": [
+                {
+                    "id": "1262711176",
+                    "name": "Miss Monique",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16691398-Screenshot 2023-09-11 at 17.50.24.png",
+                    "instagram": "https://www.instagram.com/djmissmonique/"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 13:30:00+01:00",
+            "endTime": "2025-03-17 15:00:00+01:00"
+        },
+        {
+            "id": "1732013767",
+            "name": "Neon",
+            "artists": [
+                {
+                    "id": "1368968867",
+                    "name": "Neon",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/32558165-Neon-SQ.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 12:00:00+01:00",
+            "endTime": "2025-03-17 13:30:00+01:00"
+        },
+        {
+            "id": "1732000526",
+            "name": "Amelie Lens",
+            "artists": [
+                {
+                    "id": "1532635226",
+                    "name": "Amelie Lens",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53504513-Amelie Lens - Atmosphere.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 15:00:00+01:00",
+            "endTime": "2025-03-17 16:30:00+01:00"
+        },
+        {
+            "id": "1732000474",
+            "name": "Amber Broos",
+            "artists": [
+                {
+                    "id": "1262705755",
+                    "name": "Amber Broos",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607249-large-Amber Broos2 (1).jpg",
+                    "instagram": "https://www.instagram.com/amberbroos/"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 13:30:00+01:00",
+            "endTime": "2025-03-17 15:00:00+01:00"
+        },
+        {
+            "id": "1732000431",
+            "name": "Thomas Moulene",
+            "artists": [
+                {
+                    "id": "1795914942",
+                    "name": "Thomas Moulene",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98153956-E7223.JPG"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 12:00:00+01:00",
+            "endTime": "2025-03-17 13:30:00+01:00"
+        },
+        {
+            "id": "1731998256",
+            "name": "HAAi b2b DJ BORING",
+            "artists": [
+                {
+                    "id": "1789029699",
+                    "name": "DJ Boring b2b HAAi"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 21:30:00+01:00",
+            "endTime": "2025-03-18 00:00:00+01:00"
+        },
+        {
+            "id": "1731998104",
+            "name": "Odymel",
+            "artists": [
+                {
+                    "id": "1536171891",
+                    "name": "Odymel",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96823576-Odymel-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 19:00:00+01:00",
+            "endTime": "2025-03-17 21:30:00+01:00"
+        },
+        {
+            "id": "1731995392",
+            "name": "Yves V b2b Regi",
+            "artists": [
+                {
+                    "id": "1814026422",
+                    "name": "Yves V & Regi",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/97224655-RegivsYvesV-2024.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 23:00:00+01:00",
+            "endTime": "2025-03-18 00:00:00+01:00"
+        },
+        {
+            "id": "1731995191",
+            "name": "Third Party",
+            "artists": [
+                {
+                    "id": "1536131096",
+                    "name": "Third Party",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98153698-写真 6-28-24 午前3 53 31 (8).jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 22:00:00+01:00",
+            "endTime": "2025-03-17 23:00:00+01:00"
+        },
+        {
+            "id": "1731995059",
+            "name": "The Oddword",
+            "artists": [
+                {
+                    "id": "1532641813",
+                    "name": "The Oddword",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96827901-TheOddword-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 21:00:00+01:00",
+            "endTime": "2025-03-17 22:00:00+01:00"
+        },
+        {
+            "id": "1731994942",
+            "name": "Lennert Wolfs",
+            "artists": [
+                {
+                    "id": "1391236765",
+                    "name": "Lennert Wolfs",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/33901294-Lennert Wolfs 01.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-17",
+            "day": "MONDAY",
+            "startTime": "2025-03-17 19:00:00+01:00",
+            "endTime": "2025-03-17 21:00:00+01:00"
+        },
+        {
+            "id": "1731990350",
+            "name": "Agoria",
+            "artists": [
+                {
+                    "id": "1317019842",
+                    "name": "Agoria",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/22906799-story instagram-Agoria by Elina Kechicheva.jpg",
+                    "instagram": "https://www.instagram.com/agoria/",
+                    "spotify": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP?si=HMLQV40bQ5mojF3dV7e44g"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 15:30:00+01:00",
+            "endTime": "2025-03-16 16:30:00+01:00"
+        },
+        {
+            "id": "1731990245",
+            "name": "Lovra",
+            "artists": [
+                {
+                    "id": "1731990522",
+                    "name": "Lovra",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98140226-230515_LOVRA_m01_229.png"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 14:00:00+01:00",
+            "endTime": "2025-03-16 15:30:00+01:00"
+        },
+        {
+            "id": "1731990178",
+            "name": "AnionX",
+            "artists": [
+                {
+                    "id": "1391266369",
+                    "name": "AnionX",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98136366-IMG_2728.jpeg"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 12:00:00+01:00",
+            "endTime": "2025-03-16 14:00:00+01:00"
+        },
+        {
+            "id": "1731988260",
+            "name": "Argy",
+            "artists": [
+                {
+                    "id": "1536126215",
+                    "name": "Argy",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98138105-PREFERRED FOR ARTWORKS Argy_Cover_Final_without_eyes.png"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 15:00:00+01:00",
+            "endTime": "2025-03-16 16:30:00+01:00"
+        },
+        {
+            "id": "1731988214",
+            "name": "Rivo",
+            "artists": [
+                {
+                    "id": "1536168133",
+                    "name": "Rivo",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98143075-IMG_7279.png"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 13:30:00+01:00",
+            "endTime": "2025-03-16 15:00:00+01:00"
+        },
+        {
+            "id": "1731988013",
+            "name": "Semsei",
+            "artists": [
+                {
+                    "id": "1731988606",
+                    "name": "Semsei",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98143404-SEMSEI-4.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 12:00:00+01:00",
+            "endTime": "2025-03-16 13:30:00+01:00"
+        },
+        {
+            "id": "1731983549",
+            "name": "Sub Zero Project",
+            "artists": [
+                {
+                    "id": "1546635513",
+                    "name": "Sub Zero Project",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/54882157-SZP_2024_webres--5.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 15:30:00+01:00",
+            "endTime": "2025-03-16 16:30:00+01:00"
+        },
+        {
+            "id": "1731983486",
+            "name": "Blasterjaxx",
+            "artists": [
+                {
+                    "id": "1297323405",
+                    "name": "Blasterjaxx",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/22116407-BJX_Presskit_2023_1_FINAL.png",
+                    "instagram": "https://www.instagram.com/blasterjaxx/",
+                    "spotify": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD?si=Tm4Oo1WbTBWs7IXiiiEcgA"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 14:30:00+01:00",
+            "endTime": "2025-03-16 15:30:00+01:00"
+        },
+        {
+            "id": "1731982427",
+            "name": "Viktor",
+            "artists": [
+                {
+                    "id": "1536167403",
+                    "name": "Viktor",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98174249-VIKTOR_LINADRAKOSTAMATIS-145.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 12:00:00+01:00",
+            "endTime": "2025-03-16 14:30:00+01:00"
+        },
+        {
+            "id": "1731981191",
+            "name": "Young Marco",
+            "artists": [
+                {
+                    "id": "1776604312",
+                    "name": "Young Marco",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98154487-231116_Daniel_Adhami_Young_Marco_37.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 22:30:00+01:00",
+            "endTime": "2025-03-17 00:00:00+01:00"
+        },
+        {
+            "id": "1731981130",
+            "name": "Emilija b2b Helena Lauwaert",
+            "artists": [
+                {
+                    "id": "1821038295",
+                    "name": "Emilija b2b Helena Lauwaert"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 20:30:00+01:00",
+            "endTime": "2025-03-16 22:30:00+01:00"
+        },
+        {
+            "id": "1731981088",
+            "name": "Hyalyte",
+            "artists": [
+                {
+                    "id": "1393702731",
+                    "name": "Hyalyte",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96805885-Hyalyte-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 19:00:00+01:00",
+            "endTime": "2025-03-16 20:30:00+01:00"
+        },
+        {
+            "id": "1731976326",
+            "name": "Netsky",
+            "artists": [
+                {
+                    "id": "1262708221",
+                    "name": "Netsky",
+                    "image": "https://artist-lineup-assets.b-cdn.net/20366823-netsky.jpeg",
+                    "instagram": "https://www.instagram.com/netskyofficial/"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 23:00:00+01:00",
+            "endTime": "2025-03-17 00:00:00+01:00"
+        },
+        {
+            "id": "1731976189",
+            "name": "B Jones",
+            "artists": [
+                {
+                    "id": "1262706986",
+                    "name": "B Jones",
+                    "image": "https://artist-lineup-assets.b-cdn.net/16607448-large-20210804_GuilleGS_Bjones_Ibiza_6000px_1.jpg",
+                    "instagram": "https://www.instagram.com/bjonesdj/"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 22:00:00+01:00",
+            "endTime": "2025-03-16 23:00:00+01:00"
+        },
+        {
+            "id": "1731976001",
+            "name": "Matt Sassari",
+            "artists": [
+                {
+                    "id": "1536177679",
+                    "name": "Matt Sassari",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98140488-IMG_0772.JPG"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 21:00:00+01:00",
+            "endTime": "2025-03-16 22:00:00+01:00"
+        },
+        {
+            "id": "1731975852",
+            "name": "Delafino",
+            "artists": [
+                {
+                    "id": "1345813384",
+                    "name": "Delafino",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/31833682-DELAFINO.jpg",
+                    "instagram": "https://www.instagram.com/delafino/"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-16",
+            "day": "SUNDAY",
+            "startTime": "2025-03-16 19:00:00+01:00",
+            "endTime": "2025-03-16 21:00:00+01:00"
+        },
+        {
+            "id": "1731969387",
+            "name": "Goodboys",
+            "artists": [
+                {
+                    "id": "1295647659",
+                    "name": "Goodboys",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/20391030-goodboys-20220910.jpg",
+                    "instagram": "https://www.instagram.com/goodboysoff/",
+                    "spotify": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei?si=a2vYD6KPR4mJVFAoYGjwPw"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 15:30:00+01:00",
+            "endTime": "2025-03-15 16:30:00+01:00"
+        },
+        {
+            "id": "1731968762",
+            "name": "Switch Disco",
+            "artists": [
+                {
+                    "id": "1795926976",
+                    "name": "Switch Disco",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98144882-8.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 14:00:00+01:00",
+            "endTime": "2025-03-15 15:30:00+01:00"
+        },
+        {
+            "id": "1731967866",
+            "name": "Winner Tomorrowland Academy DJ competition",
+            "artists": [
+                {
+                    "id": "1814024893",
+                    "name": "Winner Tomorrowland Academy DJ competition"
+                }
+            ],
+            "stage": {
+                "id": "1712247903",
+                "name": "REFLECTION OF LOVE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 12:00:00+01:00",
+            "endTime": "2025-03-15 14:00:00+01:00"
+        },
+        {
+            "id": "1731962456",
+            "name": "Mathame",
+            "artists": [
+                {
+                    "id": "1532641775",
+                    "name": "Mathame",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53520563-Mathame.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 14:30:00+01:00",
+            "endTime": "2025-03-15 16:30:00+01:00"
+        },
+        {
+            "id": "1731962395",
+            "name": "Kasia",
+            "artists": [
+                {
+                    "id": "1532641760",
+                    "name": "Kasia"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 13:00:00+01:00",
+            "endTime": "2025-03-15 14:30:00+01:00"
+        },
+        {
+            "id": "1731962260",
+            "name": "Thöm",
+            "artists": [
+                {
+                    "id": "1393753860",
+                    "name": "Thöm",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53805489-240316-125631-TMLW24-V7400106-VA.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247698",
+                "name": "FROZEN LOTUS"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 12:00:00+01:00",
+            "endTime": "2025-03-15 13:00:00+01:00"
+        },
+        {
+            "id": "1731957259",
+            "name": "Yves V",
+            "artists": [
+                {
+                    "id": "1262703149",
+                    "name": "Yves V",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/16607201-large-220716-181745-TML2022-153A3461-PW(1).jpg",
+                    "instagram": "https://www.instagram.com/yves_v/"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 15:30:00+01:00",
+            "endTime": "2025-03-15 16:30:00+01:00"
+        },
+        {
+            "id": "1731957012",
+            "name": "Regi",
+            "artists": [
+                {
+                    "id": "1295648800",
+                    "name": "Regi",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/38541807-WhatsApp Image 2024-03-12 at 11.38.37.jpeg",
+                    "instagram": "https://www.instagram.com/realregi/"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 14:30:00+01:00",
+            "endTime": "2025-03-15 15:30:00+01:00"
+        },
+        {
+            "id": "1731957060",
+            "name": "Stéphane Dos Santos",
+            "artists": [
+                {
+                    "id": "1393671268",
+                    "name": "Stéphane Dos Santos",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/98143936-Tomorrowland 2k22 1.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247425",
+                "name": "AMARE by Sephora"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 12:00:00+01:00",
+            "endTime": "2025-03-15 14:30:00+01:00"
+        },
+        {
+            "id": "1731953270",
+            "name": "Agoria",
+            "artists": [
+                {
+                    "id": "1317019842",
+                    "name": "Agoria",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/22906799-story instagram-Agoria by Elina Kechicheva.jpg",
+                    "instagram": "https://www.instagram.com/agoria/",
+                    "spotify": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP?si=HMLQV40bQ5mojF3dV7e44g"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 22:30:00+01:00",
+            "endTime": "2025-03-16 00:00:00+01:00"
+        },
+        {
+            "id": "1731953217",
+            "name": "Alex Wann",
+            "artists": [
+                {
+                    "id": "1532636616",
+                    "name": "Alex Wann",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96796209-Alex-Wann-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 21:00:00+01:00",
+            "endTime": "2025-03-15 22:30:00+01:00"
+        },
+        {
+            "id": "1731953146",
+            "name": "Axel Blanc",
+            "artists": [
+                {
+                    "id": "1393602363",
+                    "name": "Axel Blanc"
+                }
+            ],
+            "stage": {
+                "id": "1712247190",
+                "name": "CORE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 19:00:00+01:00",
+            "endTime": "2025-03-15 21:00:00+01:00"
+        },
+        {
+            "id": "1731932613",
+            "name": "Blasterjaxx",
+            "artists": [
+                {
+                    "id": "1297323405",
+                    "name": "Blasterjaxx",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/22116407-BJX_Presskit_2023_1_FINAL.png",
+                    "instagram": "https://www.instagram.com/blasterjaxx/",
+                    "spotify": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD?si=Tm4Oo1WbTBWs7IXiiiEcgA"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 23:00:00+01:00",
+            "endTime": "2025-03-16 00:00:00+01:00"
+        },
+        {
+            "id": "1731932880",
+            "name": "Lucas & Steve",
+            "artists": [
+                {
+                    "id": "1318669661",
+                    "name": "Lucas & Steve",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/23126394-LUCAS-2_04_STEVE-5_08_COMBINATION_LR.jpg",
+                    "instagram": "https://www.instagram.com/lucasandsteve/",
+                    "spotify": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3?si=NfdgbvBWQwSysrb0IQEDbA"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 22:00:00+01:00",
+            "endTime": "2025-03-15 23:00:00+01:00"
+        },
+        {
+            "id": "1731936694",
+            "name": "Manuals",
+            "artists": [
+                {
+                    "id": "1391293365",
+                    "name": "Manuals",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/53790640-240317-124424-TLW24-R51_4337-KV.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 21:00:00+01:00",
+            "endTime": "2025-03-15 22:00:00+01:00"
+        },
+        {
+            "id": "1731936579",
+            "name": "Jared",
+            "artists": [
+                {
+                    "id": "1391213966",
+                    "name": "Jared",
+                    "image": "https://artist-lineup-cdn.tomorrowland.com/96808456-Jared-img-2025.jpg"
+                }
+            ],
+            "stage": {
+                "id": "1712247138",
+                "name": "CAGE"
+            },
+            "date": "2025-03-15",
+            "day": "SATURDAY",
+            "startTime": "2025-03-15 19:00:00+01:00",
+            "endTime": "2025-03-15 21:00:00+01:00"
+        }
+    ]
+}
